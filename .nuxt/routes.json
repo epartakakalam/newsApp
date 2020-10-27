@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/nikoskosmides/Desktop/newsApp/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_725a9572"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/nikoskosmides/Desktop/newsApp/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_dbdb1f92"
+  }
+]
